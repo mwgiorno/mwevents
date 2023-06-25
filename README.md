@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +65,23 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# MWEvents
+Simple event management system RESTful web app with CRUD functions. You can also join or leave events.
+
+## AdminLTE
+
+There is also a user interface for interacting with the web application, where you can see events, event participants, join or leave events.
+
+![image](https://github.com/mwgiorno/mwevents/assets/43139928/fcc00f65-4abf-4558-80b6-afd3f885022e)
+
+![image](https://github.com/mwgiorno/mwevents/assets/43139928/35ca08dd-ab59-4d05-8b20-0394ddab3d42)
+
+## Technologies
+* Laravel
+* AdminLTE
+* AlpineJS
+* Axios
+* MySQL/PostgreSQL
+* NodeJS
+>>>>>>> be8682e1204f232dea8c1d4b5092e7083c192728
